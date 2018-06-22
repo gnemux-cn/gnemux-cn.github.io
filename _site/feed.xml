@@ -5,49 +5,32 @@
     <description>家庭式英语启蒙</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Jun 2018 13:38:18 +0800</pubDate>
-    <lastBuildDate>Fri, 22 Jun 2018 13:38:18 +0800</lastBuildDate>
+    <pubDate>Fri, 22 Jun 2018 14:23:39 +0800</pubDate>
+    <lastBuildDate>Fri, 22 Jun 2018 14:23:39 +0800</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
     
       <item>
-        <title>这是一个讲座博文</title>
-        <description>&lt;h4 id=&quot;这是一个测试博文2&quot;&gt;这是一个测试博文2&lt;/h4&gt;
+        <title>RainbowPig 的第一篇博客</title>
+        <description>&lt;h4 id=&quot;家庭式基语启蒙指导课&quot;&gt;“家庭式”基语启蒙指导课&lt;/h4&gt;
 
-&lt;p&gt;这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文，这是一个测试博文这是一个测试博文这是一个测试博文，这是一个测试博文这是一个测试博文这是一个测试博文&lt;/p&gt;
+&lt;p&gt;2018年06月20日晚19:30，我们在千聊平台上进行了基语启蒙指导课分享，关注微信公众号“彩虹飞猪”了解更多相关咨询&lt;/p&gt;
 
-&lt;p&gt;这是一个测试博文这是一个测试博文这是一个测试博文，这是一个测试博文这是一个测试博文&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/official-account-qr.jpg&quot; alt=&quot;彩虹飞猪-20180610&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;这是一个测试博文这是一个测试博文&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;以下是我们的讲座预告，尽请期待！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/20180627-preview.png&quot; alt=&quot;彩虹飞猪-preview&quot; height=&quot;60%&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Jun 2018 17:31:30 +0800</pubDate>
-        <link>http://localhost:4000/blog/test-post-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/test-post-2/</guid>
+        <pubDate>Wed, 20 Jun 2018 21:08:08 +0800</pubDate>
+        <link>http://localhost:4000/blog/online-sharing/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/online-sharing/</guid>
         
         <category>Lecture</category>
         
         
         <category>Lecture</category>
-        
-      </item>
-    
-      <item>
-        <title>这是一个活动博文</title>
-        <description>&lt;h4 id=&quot;这是一个测试博文&quot;&gt;这是一个测试博文&lt;/h4&gt;
-
-&lt;p&gt;这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文，这是一个测试博文这是一个测试博文这是一个测试博文，这是一个测试博文这是一个测试博文这是一个测试博文&lt;/p&gt;
-
-&lt;p&gt;这是一个测试博文这是一个测试博文这是一个测试博文，这是一个测试博文这是一个测试博文&lt;/p&gt;
-
-&lt;p&gt;这是一个测试博文这是一个测试博文&lt;/p&gt;
-</description>
-        <pubDate>Thu, 22 Jun 2017 17:31:30 +0800</pubDate>
-        <link>http://localhost:4000/blog/test-post-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/test-post-1/</guid>
-        
-        <category>Event</category>
-        
-        
-        <category>Event</category>
         
       </item>
     
