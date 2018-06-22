@@ -58,10 +58,8 @@ facebook:
 #behance:           username
 
 # Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
+gems:
+  [jekyll-feed, jekyll-sitemap]
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile,.sass-cache,.DS_Store,.idea]
