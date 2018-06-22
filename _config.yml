@@ -25,7 +25,7 @@ comment:
 
 # Website analytics
 google_analytics:
-baidu_analytics:     #from //hm.baidu.com/hm.js?***
+baidu_analytics: 4541f43de5f46d8fa5a0b6182b86d1c3     #from //hm.baidu.com/hm.js?***
 
 # Author information:
 author:
