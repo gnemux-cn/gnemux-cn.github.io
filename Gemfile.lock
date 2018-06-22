@@ -48,9 +48,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-paginate
-  jekyll-feed
-  jekyll-sitemap
-  jekyll-gist
 
 BUNDLED WITH
    1.15.4
