@@ -1,0 +1,67 @@
+#Site
+title: 彩虹飞猪 - RainbowPig
+description: 家庭式英语启蒙
+logo: favicon.png
+url: gnemux-cn.github.io
+rss_url: /feed.xml
+
+# Jekyll
+permalink:          /blog/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+sass:
+  sass_dir:         assets/_sass
+  style:            compressed
+
+# Comment
+comment:
+  disqus:
+
+# Website analytics
+google_analytics:
+baidu_analytics:     #from //hm.baidu.com/hm.js?***
+
+# Author information:
+author:
+  #resume: /resume
+  name: 彩虹飞猪     #the name of Blog section
+  about_me: “彩虹飞猪”是一个“家庭式”英语启蒙分享平台，路爸爸妈妈们分享如何在家中用游戏互动的方式完成孩子的英语启蒙，同时提高亲子陪伴质量！
+ 
+# Social Links
+email:               name@myemail.com
+#google.plus:        username
+#twitter:            username
+facebook:
+github:
+#xing:              username
+#instagram:          username
+#lastfm:            username
+#tumblr:            username
+#pinterest:         username
+#foursquare:        username
+#steam:              username
+#dribbble:          username
+#youtube:           username
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
+#behance:           username
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile,.sass-cache,.DS_Store,.idea]

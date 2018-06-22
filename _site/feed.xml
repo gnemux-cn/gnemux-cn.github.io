@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>彩虹飞猪 - RainbowPig</title>
+    <description>家庭式英语启蒙</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 22 Jun 2018 10:03:34 +0800</pubDate>
+    <lastBuildDate>Fri, 22 Jun 2018 10:03:34 +0800</lastBuildDate>
+    <generator>Jekyll v3.6.0</generator>
+    
+      <item>
+        <title>这是一个讲座博文</title>
+        <description>&lt;h4 id=&quot;这是一个测试博文2&quot;&gt;这是一个测试博文2&lt;/h4&gt;
+
+&lt;p&gt;这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文，这是一个测试博文这是一个测试博文这是一个测试博文，这是一个测试博文这是一个测试博文这是一个测试博文&lt;/p&gt;
+
+&lt;p&gt;这是一个测试博文这是一个测试博文这是一个测试博文，这是一个测试博文这是一个测试博文&lt;/p&gt;
+
+&lt;p&gt;这是一个测试博文这是一个测试博文&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 17:31:30 +0800</pubDate>
+        <link>http://localhost:4000/blog/test-post-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/test-post-2/</guid>
+        
+        <category>Lecture</category>
+        
+        
+        <category>Lecture</category>
+        
+      </item>
+    
+      <item>
+        <title>这是一个活动博文</title>
+        <description>&lt;h4 id=&quot;这是一个测试博文&quot;&gt;这是一个测试博文&lt;/h4&gt;
+
+&lt;p&gt;这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文这是一个测试博文，这是一个测试博文这是一个测试博文这是一个测试博文，这是一个测试博文这是一个测试博文这是一个测试博文&lt;/p&gt;
+
+&lt;p&gt;这是一个测试博文这是一个测试博文这是一个测试博文，这是一个测试博文这是一个测试博文&lt;/p&gt;
+
+&lt;p&gt;这是一个测试博文这是一个测试博文&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Jun 2017 17:31:30 +0800</pubDate>
+        <link>http://localhost:4000/blog/test-post-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/test-post-1/</guid>
+        
+        <category>Event</category>
+        
+        
+        <category>Event</category>
+        
+      </item>
+    
+  </channel>
+</rss>
